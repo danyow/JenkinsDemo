@@ -272,6 +272,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: JunHong Zhu (72GJ4BTB4F)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: JunHong Zhu (72GJ4BTB4F)";
 				DEVELOPMENT_TEAM = 72GJ4BTB4F;
 				INFOPLIST_FILE = JenkinsDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -287,6 +288,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: JunHong Zhu (72GJ4BTB4F)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: JunHong Zhu (72GJ4BTB4F)";
 				DEVELOPMENT_TEAM = 72GJ4BTB4F;
 				INFOPLIST_FILE = JenkinsDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
