@@ -275,10 +275,10 @@
 				DEVELOPMENT_TEAM = 72GJ4BTB4F;
 				INFOPLIST_FILE = JenkinsDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Danyow.Ed.Jenkins;
+				PRODUCT_BUNDLE_IDENTIFIER = LastDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "4e92c2bc-f0d0-4404-b0a6-e2861410653c";
-				PROVISIONING_PROFILE_SPECIFIER = JenkinsAdHos;
+				PROVISIONING_PROFILE = "398c40d3-b80e-4854-b6ea-5c72f96c3339";
+				PROVISIONING_PROFILE_SPECIFIER = lastDemo;
 			};
 			name = Debug;
 		};
@@ -290,10 +290,10 @@
 				DEVELOPMENT_TEAM = 72GJ4BTB4F;
 				INFOPLIST_FILE = JenkinsDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Danyow.Ed.Jenkins;
+				PRODUCT_BUNDLE_IDENTIFIER = LastDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "4e92c2bc-f0d0-4404-b0a6-e2861410653c";
-				PROVISIONING_PROFILE_SPECIFIER = JenkinsAdHos;
+				PROVISIONING_PROFILE = "398c40d3-b80e-4854-b6ea-5c72f96c3339";
+				PROVISIONING_PROFILE_SPECIFIER = lastDemo;
 			};
 			name = Release;
 		};
